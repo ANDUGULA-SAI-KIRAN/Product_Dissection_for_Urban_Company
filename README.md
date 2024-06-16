@@ -37,6 +37,9 @@ Urban Company provides service professionals with comprehensive training and ski
 
 To create a robust ER diagram strategy for Urban Company's service management system, start by identifying key entities like Service Professionals, Users, Services, Bookings, Ratings, User Reviews, and Payment Transactions. Establish clear relationships between entities, define primary and foreign keys, and ensure data integrity. Incorporate attributes that capture essential information for efficient service delivery, ratings, and payment processing.
 
+![image](https://github.com/ANDUGULA-SAI-KIRAN/Product_Dissection_for_Urban_Company/assets/143734802/45cb4607-10c3-4ced-a0de-c72dcea1112f)
+
+
 ### 8. Conclusion
 
 In conclusion, the Urban Company platform's database schema is designed to capture information about service categories, providers, services offered, user requests, and reviews. The relationships between entities ensure a comprehensive representation of service providers, their offerings, and user interactions on the platform. The schema is structured to support features like service requests, reviews, and feedback, creating a dynamic and efficient user experience. Further refinement and optimization can be done based on the evolving requirements of the platform.
